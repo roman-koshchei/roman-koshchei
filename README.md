@@ -17,5 +17,5 @@ Working on [fasko](https://github.com/fasko-app) task manager
 
 ## Organizations
 
-[![fasko](https://avatars.githubusercontent.com/u/105215824?s=200&v=4)](https://github.com/fasko-app)
-[![flurium](https://avatars.githubusercontent.com/u/105239700?s=200&v=4)](https://github.com/flurium)
+[![fasko](https://avatars.githubusercontent.com/u/105215824?s=100&v=4)](https://github.com/fasko-app)
+[![flurium](https://avatars.githubusercontent.com/u/105239700?s=100&v=4)](https://github.com/flurium)
