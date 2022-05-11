@@ -19,4 +19,4 @@ Working on [fasko](https://github.com/fasko-app) task manager
 
 [![fasko](https://avatars.githubusercontent.com/u/105215824?s=100&v=4)](https://github.com/fasko-app) 
 [![flurium](https://avatars.githubusercontent.com/u/103936719?s=100&v=4)](https://github.com/flurium) 
-[![paragoda](https://avatars.githubusercontent.com/u/105239700?s=100&v=4)](https://github.com/paragoda) 
+[![paragoda](https://avatars.githubusercontent.com/u/105239700?s=100&v=4)](https://github.com/paragoda)  
