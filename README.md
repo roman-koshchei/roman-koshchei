@@ -1,8 +1,6 @@
 #  What's up? 
 
 I am developer from Ukraine.
-Working on [fasko](https://github.com/fasko-app) task manager
-
 
 ## Stats
 
