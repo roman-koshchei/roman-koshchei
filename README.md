@@ -1,6 +1,6 @@
 #  What's up? 
 
-I'm working on [LETA](https://github.com/paragoda/leta) as my side project. Langs were updated 9.10.2022
+I'm developing [Paragoda](https://github.com/paragoda). Langs were updated 9.10.2022
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=romankoshchei&theme=nord&hide=other&hide_border=true&langs_count=4&custom_title=Week%20activity" height=130>
