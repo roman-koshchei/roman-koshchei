@@ -1,0 +1,53 @@
+
+                <svg width='350' height='110' xmlns='http://www.w3.org/2000/svg'>
+                    
+                <style>
+                    text {
+                        fill: white;
+                        font-size: 12px;
+                        font-family: Arial;
+                        transform: translate(15px, 5px);
+                    }
+                    circle {
+                        r: 5px;
+                    }
+                    line {
+                        stroke-width: 10px;
+                    }
+                    .bar {
+                        transform: translate(0, 30px);
+                    }
+                    .persents {
+                        transform: translate(0, 60px);
+                    }
+                </style>
+            
+                    <rect width='350' height='110' fill='#3c4043' />
+                    <g class='bar'>
+                        <line x1='30' x2='214.6735678009562' stroke='#3178c6' /><line x1='214.6735678009562' x2='287.6689027113765' stroke='#5ecc64' /><line x1='287.6689027113765' x2='317.807573326275' stroke='#76e1fe' /><line x1='317.807573326275' x2='320' stroke='#f1e05a' />
+                    </g>
+                    <g class='persents'>
+                        
+                <g transform='translate(35, 0)'>
+                    <circle fill='#3178c6'/>
+                    <text>TypeScript 63.68%</text>
+                </g>
+            
+                <g transform='translate(180, 0)'>
+                    <circle fill='#5ecc64'/>
+                    <text>C# 25.17%</text>
+                </g>
+            
+                <g transform='translate(35, 20)'>
+                    <circle fill='#76e1fe'/>
+                    <text>Go 10.39%</text>
+                </g>
+            
+                <g transform='translate(180, 20)'>
+                    <circle fill='#f1e05a'/>
+                    <text>JavaScript 0.76%</text>
+                </g>
+            
+                    </g>
+                </svg>
+            
