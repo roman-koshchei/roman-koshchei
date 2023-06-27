@@ -4,7 +4,7 @@
 
 ## Flurium
 
-I lead study group of developers (mainly C#).
+I lead team of developers. You can checkout our website: [flurium.github.io](https://flurium.github.io/)
 
 We created several projects like:
 
