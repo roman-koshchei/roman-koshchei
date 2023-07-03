@@ -4,10 +4,11 @@
 
 ## Flurium
 
-I lead study group of developers (mainly C#).
+I lead study group of developers.
 
 We created several projects like:
 
+- Agency: [Flurium](https://www.flurium.com/)
 - Auction platform: [BidMe](https://github.com/flurium/bidme)
 - Sales platform: [Thing](https://github.com/flurium/thing)
 - Chat with pure networking and hybrid system (centralized and decentralized): [BabbleUp](https://github.com/flurium/babble)
