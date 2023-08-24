@@ -7,7 +7,7 @@
 I lead team of developers. You can checkout our website: [flurium.com](https://flurium.com/)
 
 We created several projects like:
-- Online Shop platform Spentoday: [Frontend](https://github.com/flurium/spentoday), [Api](https://github.com/flurium/spentoday-api)
+- Online Shop platform Spentoday: [Site](https://github.com/flurium/spentoday), [Shop](https://github.com/flurium/spentoday-shop), [Api](https://github.com/flurium/spentoday-api)
 - Agency: [Flurium](https://github.com/flurium/agency)
 - Auction platform: [BidMe](https://github.com/flurium/bidme)
 - Sales platform: [Thing](https://github.com/flurium/thing)
