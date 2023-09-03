@@ -5,6 +5,7 @@
 ## Flurium
 
 I lead team of developers. You can checkout our website: [flurium.com](https://flurium.com/)
+Or GitHub organisation: [Flurium](https://github.com/flurium).
 
 We created several projects like:
 - Online Shop platform Spentoday: [Site](https://github.com/flurium/spentoday), [Shop](https://github.com/flurium/spentoday-shop), [Api](https://github.com/flurium/spentoday-api)
@@ -13,4 +14,9 @@ We created several projects like:
 - Sales platform: [Thing](https://github.com/flurium/thing)
 - Chat with pure networking and hybrid system (centralized and decentralized): [BabbleUp](https://github.com/flurium/babble)
 
-You can watch them at our [GitHub organisation: Flurium](https://github.com/flurium).
+## Personal
+
+- Keyboard layout creation and analyzing tool: [LETA](https://github.com/roman-koshchei/leta)
+- Keyboard analyzing API: [Genkey](https://github.com/roman-koshchei/genkey-api)
+- C# untils: [Unator](https://github.com/roman-koshchei/unator)
+- Dumb React mutable state management: [Mutato](https://github.com/roman-koshchei/mutato) 
