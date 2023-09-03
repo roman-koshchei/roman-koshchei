@@ -6,7 +6,7 @@
 
 I lead a development team (we can develop site for you). You can checkout our website: [flurium.com](https://flurium.com/) or GitHub organisation: [Flurium](https://github.com/flurium).
 
-We created several projects like:
+Our experience:
 - Online Shop platform Spentoday: [Site](https://github.com/flurium/spentoday), [Shop](https://github.com/flurium/spentoday-shop), [Api](https://github.com/flurium/spentoday-api)
 - Agency: [Flurium](https://github.com/flurium/agency)
 - Auction platform: [BidMe](https://github.com/flurium/bidme)
