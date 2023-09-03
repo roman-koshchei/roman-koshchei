@@ -18,5 +18,5 @@ We created several projects like:
 
 - Keyboard layout creation and analyzing tool: [LETA](https://github.com/roman-koshchei/leta)
 - Keyboard analyzing API: [Genkey](https://github.com/roman-koshchei/genkey-api)
-- C# untils: [Unator](https://github.com/roman-koshchei/unator)
+- C# utils: [Unator](https://github.com/roman-koshchei/unator)
 - Dumb React mutable state management: [Mutato](https://github.com/roman-koshchei/mutato) 
