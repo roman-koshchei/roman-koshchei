@@ -15,6 +15,7 @@ Our experience:
 
 ## Personal
 
+- Remake of Road to Vostok website: [roadtovostok.flurium.com](https://roadtovostok.flurium.com/), [Original site](https://roadtovostok.com/)
 - Keyboard layout creation and analyzing tool: [LETA](https://github.com/roman-koshchei/leta)
 - Keyboard analyzing API: [Genkey](https://github.com/roman-koshchei/genkey-api)
 - C# utils: [Unator](https://github.com/roman-koshchei/unator)
