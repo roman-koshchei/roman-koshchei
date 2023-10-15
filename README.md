@@ -1,4 +1,4 @@
-<img src="./img/langs-20-3-2023.svg" width="50%">
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roman-koshchei&layout=donut-vertical)
 
 \*langs were updated 20.03.2023
 
