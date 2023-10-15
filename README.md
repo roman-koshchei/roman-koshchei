@@ -1,4 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roman-koshchei&layout=donut-vertical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roman-koshchei&layout=donut-vertical&theme=dracula)
 
 \*langs were updated 20.03.2023
 
