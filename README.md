@@ -1,8 +1,3 @@
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roman-koshchei&layout=donut-vertical&theme=dracula)
-
-\*langs were updated 20.03.2023
-
 ## Flurium
 
 I lead a development team (we can develop site for you). You can checkout our website: [flurium.com](https://flurium.com/) or GitHub organisation: [Flurium](https://github.com/flurium).
@@ -21,3 +16,5 @@ Our experience:
 - Keyboard analyzing API: [Genkey](https://github.com/roman-koshchei/genkey-api)
 - C# utils: [Unator](https://github.com/roman-koshchei/unator)
 - Dumb React mutable state management: [Mutato](https://github.com/roman-koshchei/mutato) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roman-koshchei&layout=donut-vertical&theme=dracula)
