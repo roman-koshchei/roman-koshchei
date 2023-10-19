@@ -19,4 +19,4 @@ Our experience:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roman-koshchei&layout=donut&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roman-koshchei&layout=donut&theme=dracula&hide=html)
