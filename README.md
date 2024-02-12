@@ -1,6 +1,6 @@
 ## Flurium
 
-I lead a development team (we can develop site for you). You can checkout our website: [flurium.com](https://flurium.com/) or GitHub organisation: [Flurium](https://github.com/flurium).
+I lead a development team (we can develop app for you). You can checkout our website: [flurium.com](https://flurium.com/) or GitHub organisation: [Flurium](https://github.com/flurium).
 
 Our experience:
 - Online Shop platform Spentoday: [Site](https://github.com/flurium/spentoday), [Shop](https://github.com/flurium/spentoday-shop), [Api](https://github.com/flurium/spentoday-api)
