@@ -19,6 +19,8 @@ Experience:
 - C# utils: [Unator](https://github.com/roman-koshchei/unator)
 - Dumb React mutable state management: [Mutato](https://github.com/roman-koshchei/mutato) 
 
+All repositories with `uni-` prefix are for university projects, homeworks, etc. 
+
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roman-koshchei&layout=donut&theme=dracula&hide=html)
