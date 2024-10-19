@@ -22,6 +22,3 @@ Experience:
 
 All repositories with `uni-` prefix are for university projects, homeworks, etc. 
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roman-koshchei&layout=donut&theme=dracula&hide=html)
