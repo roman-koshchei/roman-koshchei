@@ -9,7 +9,7 @@ I lead a development team (we can develop app for you). You can checkout our web
 
 ## Side projects
 
-- Email Switch API and Managed Cloud for it: [email-switch](https://github.com/roman-koshchei/email-swithc), cloud is currently private
+- Email Switch API and Managed Cloud for it: [email-switch](https://github.com/roman-koshchei/email-switch), cloud is currently private
 - Live reloading for any language: [live.sh](https://github.com/roman-koshchei/live-sh)
 - Contributed to C++ Game Engine: [Spartan Engine PR](https://github.com/PanosK92/SpartanEngine/pull/160)
 - Keyboard layout creation and analyzing tool: [LETA](https://github.com/roman-koshchei/leta)
