@@ -1,13 +1,21 @@
 ## Works
 
-I lead a development team (we can develop app for you). You can checkout our website: [flurium.com](https://flurium.com/) or GitHub organisation: [Flurium](https://github.com/flurium).
+I lead a development team: you can checkout our website: [flurium.com](https://flurium.com/) or GitHub organisation: [Flurium](https://github.com/flurium).
 
 - Architecture & Tradition X account website: [architectureandtradition.com](https://www.architectureandtradition.com/)
 - Online Shop platform Spentoday: [Site](https://github.com/flurium/spentoday), [Shop](https://github.com/flurium/spentoday-shop), [Api](https://github.com/flurium/spentoday-api)
-- Team portfolio website: [Flurium](https://github.com/flurium/agency)
 - Chat with pure networking and hybrid system (centralized and decentralized): [BabbleUp](https://github.com/flurium/babble)
 
-## Side projects
+## Systems
+
+I have autonomous aerosystems project, that I plan to invest time into. 
+Main code and AI models that I will develop will not be open-sourced for obvious reasons.
+You will be able to see results in future on special site. 
+But I will open-source some tools I make along the way. 
+ 
+- YOLO Dataset Visualizer: [yolo-dataset-visualizer](https://github.com/roman-koshchei/yolo-dataset-visualizer)
+
+## Pet projects
 
 - Email Switch API and Managed Cloud for it: [email-switch](https://github.com/roman-koshchei/email-switch), cloud is currently private
 - Live reloading for any language: [live.sh](https://github.com/roman-koshchei/live-sh)
