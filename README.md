@@ -10,7 +10,7 @@ I lead a development team: you can checkout our website: [flurium.com](https://f
 
 I have autonomous aerosystems project, that I plan to invest time into. 
 Main code and AI models that I will develop will not be open-sourced for obvious reasons.
-You will be able to see results in future on special site. 
+You will be able to see results in future on special site, currently it's [koshchei.bearblog.dev](https://koshchei.bearblog.dev/). 
 But I will open-source some tools I make along the way. 
  
 - YOLO Dataset Visualizer: [yolo-dataset-visualizer](https://github.com/roman-koshchei/yolo-dataset-visualizer)
