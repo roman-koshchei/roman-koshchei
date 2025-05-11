@@ -14,6 +14,7 @@ You will be able to see results in future on special site.
 But I will open-source some tools I make along the way. 
  
 - YOLO Dataset Visualizer: [yolo-dataset-visualizer](https://github.com/roman-koshchei/yolo-dataset-visualizer)
+- YOLO Auto Annotation : [yolo-auto-annotation](https://github.com/roman-koshchei/yolo-auto-annotation)
 
 ## Pet projects
 
