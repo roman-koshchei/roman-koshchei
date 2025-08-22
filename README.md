@@ -1,6 +1,6 @@
-## Works
+## Work
 
-I lead a development team: you can checkout our website: [flurium.com](https://flurium.com/) or GitHub organisation: [Flurium](https://github.com/flurium).
+I do freelancing for commercial work. Most of my experience is in backend and frontend for web.
 
 - Architecture & Tradition X account website: [architectureandtradition.com](https://www.architectureandtradition.com/)
 - Online Shop platform Spentoday: [Site](https://github.com/flurium/spentoday), [Shop](https://github.com/flurium/spentoday-shop), [Api](https://github.com/flurium/spentoday-api)
@@ -10,7 +10,7 @@ I lead a development team: you can checkout our website: [flurium.com](https://f
 
 I have autonomous aerosystems project, that I plan to invest time into. 
 Main code and AI models that I will develop will not be open-sourced for obvious reasons.
-You will be able to see results in future on special site, currently it's [koshchei.bearblog.dev](https://koshchei.bearblog.dev/). 
+You will be able to see results in future on special site, currently it's [roman-koshchei.github.io](https://roman-koshchei.github.io/). 
 But I will open-source some tools I make along the way. 
  
 - YOLO Dataset Visualizer: [yolo-dataset-visualizer](https://github.com/roman-koshchei/yolo-dataset-visualizer)
