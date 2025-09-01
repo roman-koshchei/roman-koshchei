@@ -10,7 +10,7 @@ I do freelancing for commercial work. Most of my experience is in backend and fr
 
 I have autonomous aerosystems project, that I plan to invest time into. 
 Main code and AI models that I will develop will not be open-sourced for obvious reasons.
-You will be able to see results in future on special site, currently it's [roman-koshchei.github.io](https://roman-koshchei.github.io/). 
+You will be able to see results in future on special site, currently it's [roman-koshchei.github.io](https://koshchei.systems/). 
 But I will open-source some tools I make along the way. 
  
 - YOLO Dataset Visualizer: [yolo-dataset-visualizer](https://github.com/roman-koshchei/yolo-dataset-visualizer)
